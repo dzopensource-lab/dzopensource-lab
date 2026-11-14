@@ -40,6 +40,13 @@ A modern CLI toolkit for developers — organize files, scaffold projects, and i
 ---
 
 ## 🌐 Live Web Apps
+### 🍽️ [Maison Atlas](https://dzopensource-lab.github.io/atlas-digital/fr/)
+Bilingual restaurant website (FR/AR) — 10 pages, full RTL support, View Transitions, booking form.
+
+`Astro` · `TypeScript` · `i18n` · `RTL` · `View Transitions` · `GitHub Actions`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-success?style=flat&logo=githubpages&logoColor=white)](https://dzopensource-lab.github.io/atlas-digital/fr/)
+[![Source](https://img.shields.io/badge/Source_Code-blue?style=flat&logo=github&logoColor=white)](https://github.com/dzopensource-lab/atlas-digital)
 
 ### 🌤️ [DZ Weather App](https://dzopensource-lab.github.io/dz-weather-app)
 Real-time weather app with city search, geolocation, and 7-day forecast. Fetches live data from Open-Meteo API.
