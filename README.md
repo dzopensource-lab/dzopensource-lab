@@ -41,15 +41,21 @@ A modern CLI toolkit for developers — organize files, scaffold projects, and i
 
 ## 🌐 Live Web Apps
 
+### 🌤️ [DZ Weather App](https://dzopensource-lab.github.io/dz-weather-app)
+Real-time weather app with city search, geolocation, and 7-day forecast. Fetches live data from Open-Meteo API.
+
+`HTML5` · `CSS3` · `JavaScript` · `Fetch API` · `Async/Await` · `Geolocation` · `LocalStorage` · `Debouncing`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-success?style=flat&logo=githubpages&logoColor=white)](https://dzopensource-lab.github.io/dz-weather-app)
+[![Source](https://img.shields.io/badge/Source_Code-blue?style=flat&logo=github&logoColor=white)](https://github.com/dzopensource-lab/dz-weather-app)
+
 ### 📝 [DZ Todo App](https://dzopensource-lab.github.io/dz-todo-app)
-A task manager built with vanilla JavaScript, featuring localStorage persistence, filters, and a clean dark UI.
+A task manager built with vanilla JavaScript, featuring localStorage persistence and filtering.
 
 `HTML5` · `CSS3` · `JavaScript` · `LocalStorage`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-success?style=flat&logo=githubpages&logoColor=white)](https://dzopensource-lab.github.io/dz-todo-app)
 [![Source](https://img.shields.io/badge/Source_Code-blue?style=flat&logo=github&logoColor=white)](https://github.com/dzopensource-lab/dz-todo-app)
-
----
 
 ## 🚀 Featured Projects
 
