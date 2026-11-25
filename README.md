@@ -108,7 +108,25 @@ A modern CLI toolkit for developers — organize files, scaffold projects, and i
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
+## 💻 Desktop Applications
 
+### 📄 [DZ PDF Toolkit](https://github.com/dzopensource-lab/dz-pdf-toolkit)
+A 100% offline PDF utility for Windows: Merge, Split, Rotate, Compress, and Protect PDFs. Available in FR and EN.
+*Une boîte à outils PDF 100% hors-ligne pour Windows : Fusionner, Diviser, Pivoter, Compresser et Protéger.*
+
+`Python` · `PyQt` · `PyInstaller` · `Offline` · `Windows`
+
+[![Download](https://img.shields.io/badge/Download-v1.0.0-success?style=flat&logo=windows&logoColor=white)](https://github.com/dzopensource-lab/dz-pdf-toolkit/releases)
+[![Source](https://img.shields.io/badge/Source_Code-blue?style=flat&logo=github&logoColor=white)](https://github.com/dzopensource-lab/dz-pdf-toolkit)
+
+### 📈 [DZ Crypto Dashboard](https://dzopensource-lab.github.io/dz-crypto-dashboard)
+Real-time cryptocurrency tracker with Chart.js and live API data.
+*Suivi des cryptomonnaies en temps réel avec Chart.js et API live.*
+
+`JavaScript` · `Chart.js` · `API` · `GitHub Pages`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-success?style=flat&logo=githubpages&logoColor=white)](https://dzopensource-lab.github.io/dz-crypto-dashboard)
+[![Source](https://img.shields.io/badge/Source_Code-blue?style=flat&logo=github&logoColor=white)](https://github.com/dzopensource-lab/dz-crypto-dashboard)
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=dzopensource-lab&show_icons=true&theme=radical&hide_border=true)
