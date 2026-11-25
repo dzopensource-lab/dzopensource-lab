@@ -10,75 +10,83 @@ Open-source builder from Algeria 🇩🇿 — publishing tools that solve real p
 - 💼 **10+ years** of professional experience as a software developer
 - 🌐 Building modern **web applications** (front-end & back-end)
 - 🖥️ Developing **desktop software** (native & cross-platform)
-- 🧩 Passionate about clean architecture, performance and developer experience
+- 🧩 Passionate about clean architecture, performance, and developer experience
 - 🌱 Currently exploring: **FastAPI · modern tooling · AI-assisted development**
 - 🤝 Open to collaboration on **open-source projects**
 - 📫 Reach me: **lionweb01@gmail.com**
 
 ---
 
-## 📦 Published on PyPI
+## 🚀 Featured Projects
 
-### 🔤 [dz-arabic-slug](https://pypi.org/project/dz-arabic-slug/)
-Convert Arabic text into clean, URL-friendly slugs with proper transliteration. Works with Django, Flask, FastAPI, and any Python project.
+### 📦 Open Source Packages (PyPI)
 
-    pip install dz-arabic-slug
+**🔤 [dz-arabic-slug](https://pypi.org/project/dz-arabic-slug/)**
+Convert Arabic text into clean, URL-friendly slugs. Works with Django, Flask, and FastAPI.
+*Convertit le texte arabe en slugs propres pour les URLs.*
 
 [![PyPI](https://img.shields.io/pypi/v/dz-arabic-slug.svg)](https://pypi.org/project/dz-arabic-slug/)
 [![Tests](https://github.com/dzopensource-lab/dz-arabic-slug/actions/workflows/test.yml/badge.svg)](https://github.com/dzopensource-lab/dz-arabic-slug/actions/workflows/test.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/dzopensource-lab/dz-arabic-slug/blob/main/LICENSE)
 
-### 🛠️ [dz-devkit-cli](https://pypi.org/project/dz-devkit-cli/)
-A modern CLI toolkit for developers — organize files, scaffold projects, and inspect git repositories.
-
-    pip install dz-devkit-cli
+**🛠️ [dz-devkit-cli](https://pypi.org/project/dz-devkit-cli/)**
+A modern CLI toolkit for developers — organize files, scaffold projects, and inspect git repos.
+*Une boîte à outils CLI moderne pour les développeurs.*
 
 [![PyPI](https://img.shields.io/pypi/v/dz-devkit-cli.svg)](https://pypi.org/project/dz-devkit-cli/)
 [![Tests](https://github.com/dzopensource-lab/devkit-cli/actions/workflows/test.yml/badge.svg)](https://github.com/dzopensource-lab/devkit-cli/actions/workflows/test.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/dzopensource-lab/devkit-cli/blob/main/LICENSE)
 
 ---
 
-## 🌐 Live Web Apps
-### 🍽️ [Maison Atlas](https://dzopensource-lab.github.io/atlas-digital/fr/)
-Bilingual restaurant website (FR/AR) — 10 pages, full RTL support, View Transitions, booking form.
+### 🌐 Web Applications
 
-`Astro` · `TypeScript` · `i18n` · `RTL` · `View Transitions` · `GitHub Actions`
+**🍽️ [Maison Atlas](https://dzopensource-lab.github.io/atlas-digital/fr/)**
+Bilingual restaurant website (FR/AR) — 10 pages, full RTL support, View Transitions, booking form.
+*Site web de restaurant bilingue (FR/AR) — 10 pages, support RTL complet, View Transitions, formulaire de réservation.*
+
+`Astro` · `TypeScript` · `i18n` · `RTL` · `GitHub Actions`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-success?style=flat&logo=githubpages&logoColor=white)](https://dzopensource-lab.github.io/atlas-digital/fr/)
 [![Source](https://img.shields.io/badge/Source_Code-blue?style=flat&logo=github&logoColor=white)](https://github.com/dzopensource-lab/atlas-digital)
 
-### 🌤️ [DZ Weather App](https://dzopensource-lab.github.io/dz-weather-app)
-Real-time weather app with city search, geolocation, and 7-day forecast. Fetches live data from Open-Meteo API.
+**📈 [DZ Crypto Dashboard](https://dzopensource-lab.github.io/dz-crypto-dashboard)**
+Real-time cryptocurrency tracker with Chart.js and live API data.
+*Suivi des cryptomonnaies en temps réel avec Chart.js et API live.*
 
-`HTML5` · `CSS3` · `JavaScript` · `Fetch API` · `Async/Await` · `Geolocation` · `LocalStorage` · `Debouncing`
+`JavaScript` · `Chart.js` · `API` · `GitHub Pages`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-success?style=flat&logo=githubpages&logoColor=white)](https://dzopensource-lab.github.io/dz-crypto-dashboard)
+[![Source](https://img.shields.io/badge/Source_Code-blue?style=flat&logo=github&logoColor=white)](https://github.com/dzopensource-lab/dz-crypto-dashboard)
+
+**🌤️ [DZ Weather App](https://dzopensource-lab.github.io/dz-weather-app)**
+Real-time weather app with city search, geolocation, and 7-day forecast.
+*Application météo en temps réel avec recherche de ville, géolocalisation et prévisions sur 7 jours.*
+
+`HTML5` · `CSS3` · `JavaScript` · `Fetch API` · `Geolocation`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-success?style=flat&logo=githubpages&logoColor=white)](https://dzopensource-lab.github.io/dz-weather-app)
 [![Source](https://img.shields.io/badge/Source_Code-blue?style=flat&logo=github&logoColor=white)](https://github.com/dzopensource-lab/dz-weather-app)
 
-### 📝 [DZ Todo App](https://dzopensource-lab.github.io/dz-todo-app)
+**📝 [DZ Todo App](https://dzopensource-lab.github.io/dz-todo-app)**
 A task manager built with vanilla JavaScript, featuring localStorage persistence and filtering.
+*Un gestionnaire de tâches en JavaScript pur, avec persistance localStorage et filtrage.*
 
 `HTML5` · `CSS3` · `JavaScript` · `LocalStorage`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-success?style=flat&logo=githubpages&logoColor=white)](https://dzopensource-lab.github.io/dz-todo-app)
 [![Source](https://img.shields.io/badge/Source_Code-blue?style=flat&logo=github&logoColor=white)](https://github.com/dzopensource-lab/dz-todo-app)
 
-## 🚀 Featured Projects
+---
 
-### 🔤 [dz-arabic-slug](https://github.com/dzopensource-lab/dz-arabic-slug)
-Arabic → Latin transliteration for URL slugs. Solves the broken Arabic URLs problem in Django, Flask, and FastAPI.
+### 💻 Desktop Applications
 
-`Python` `pytest` `GitHub Actions` `PyPI`
+**📄 [DZ PDF Toolkit](https://github.com/dzopensource-lab/dz-pdf-toolkit)**
+A 100% offline PDF utility for Windows: Merge, Split, Rotate, Compress, and Protect PDFs. Available in FR and EN.
+*Une boîte à outils PDF 100% hors-ligne pour Windows : Fusionner, Diviser, Pivoter, Compresser et Protéger.*
 
-> 📚 [Documentation](https://github.com/dzopensource-lab/dz-arabic-slug#readme) · [PyPI](https://pypi.org/project/dz-arabic-slug/)
+`Python` · `PyQt` · `PyInstaller` · `Offline` · `Windows`
 
-### 🛠️ [DevKit CLI](https://github.com/dzopensource-lab/devkit-cli)
-A modern CLI toolkit for developers — organize files, scaffold projects, and inspect git repositories.
-
-`Python` `Click` `Rich` `pytest` `GitHub Actions` `PyPI`
-
-> 📚 [Documentation](https://github.com/dzopensource-lab/devkit-cli#readme) · [Commands](https://github.com/dzopensource-lab/devkit-cli/blob/main/docs/commands.md) · [Examples](https://github.com/dzopensource-lab/devkit-cli/blob/main/docs/examples.md)
+[![Download](https://img.shields.io/badge/Download-v1.0.0-success?style=flat&logo=windows&logoColor=white)](https://github.com/dzopensource-lab/dz-pdf-toolkit/releases)
+[![Source](https://img.shields.io/badge/Source_Code-blue?style=flat&logo=github&logoColor=white)](https://github.com/dzopensource-lab/dz-pdf-toolkit)
 
 ---
 
@@ -108,25 +116,7 @@ A modern CLI toolkit for developers — organize files, scaffold projects, and i
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
-## 💻 Desktop Applications
 
-### 📄 [DZ PDF Toolkit](https://github.com/dzopensource-lab/dz-pdf-toolkit)
-A 100% offline PDF utility for Windows: Merge, Split, Rotate, Compress, and Protect PDFs. Available in FR and EN.
-*Une boîte à outils PDF 100% hors-ligne pour Windows : Fusionner, Diviser, Pivoter, Compresser et Protéger.*
-
-`Python` · `PyQt` · `PyInstaller` · `Offline` · `Windows`
-
-[![Download](https://img.shields.io/badge/Download-v1.0.0-success?style=flat&logo=windows&logoColor=white)](https://github.com/dzopensource-lab/dz-pdf-toolkit/releases)
-[![Source](https://img.shields.io/badge/Source_Code-blue?style=flat&logo=github&logoColor=white)](https://github.com/dzopensource-lab/dz-pdf-toolkit)
-
-### 📈 [DZ Crypto Dashboard](https://dzopensource-lab.github.io/dz-crypto-dashboard)
-Real-time cryptocurrency tracker with Chart.js and live API data.
-*Suivi des cryptomonnaies en temps réel avec Chart.js et API live.*
-
-`JavaScript` · `Chart.js` · `API` · `GitHub Pages`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-success?style=flat&logo=githubpages&logoColor=white)](https://dzopensource-lab.github.io/dz-crypto-dashboard)
-[![Source](https://img.shields.io/badge/Source_Code-blue?style=flat&logo=github&logoColor=white)](https://github.com/dzopensource-lab/dz-crypto-dashboard)
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=dzopensource-lab&show_icons=true&theme=radical&hide_border=true)
